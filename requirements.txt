@@ -1,0 +1,10 @@
+firebolt
+requests
+xarray
+cfgrib
+pyproj
+boto3
+folium
+pandas
+numpy
+pyarrow
